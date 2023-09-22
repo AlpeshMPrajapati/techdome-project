@@ -15,4 +15,4 @@
 
   # Demo Video Link   
 
-  <video src="https://www.youtube.com/watch?v=F946eSHsyTY" control></video>
+  <a href="https://www.youtube.com/watch?v=F946eSHsyTY">Demo Video of Project</a>
